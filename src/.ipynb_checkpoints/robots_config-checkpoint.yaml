@@ -1,0 +1,5 @@
+robots:
+  UR10:
+    ip: 192.168.40.42
+    port: 30003
+    type: ur
