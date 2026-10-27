@@ -3,7 +3,7 @@
 🚧 **Work in Progress**: The code is provided for reference purposes only and is not intended to be run directly. It was developed and tested on a specific hardware setup, and requires modifications to run on other systems. If you wish to adapt it, please review the code carefully and adjust configuration paths, dependencies, and hardware-specific settings accordingly.
 
 Automated handling of injected specimens using a colaborative robot, neural networks and fiducial markers as shown 
-in the article "PERCEPTION-DRIVEN EXPERIMENTAL WORKFLOWS FOR SELF-DRIVING POLYMER LABS WITH MOBILE ROBOTS AND COBOT WORKCELLS"
+in the article "Perception-Driven Automation of Polymer Experiments: Mobile Sample Transport, Post-Molding Trimming, and Tensile Testing"
 by Miguel Hernández-del-Valle, Alejandro Ortega, Arturo de la Escalera Hueso and Maciej Haranczyk.
 
 The content is organized as follows:
