@@ -17,3 +17,4 @@ The content is organized as follows:
     * CalibrationPosesUR10.txt: pre-recorded poses to correlate ARuco position and robot poses.
     * CalibrationParamsUR10.txt: results of running the UR10 calibration.
     * robots_config.yaml: file with the robots available for the experiment and their IP directions.
+* Tensile testing validation: contains the raw data from tensile testing, as well as the code to generate the plots and a summary of the results (tensile_results.csv)
